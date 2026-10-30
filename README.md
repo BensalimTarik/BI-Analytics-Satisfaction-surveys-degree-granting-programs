@@ -2,12 +2,6 @@
 # Training Satisfaction Analytics – Power BI
 
 ## Dashboard Gallery
-<h2 align="center">Dashboard Gallery – Training Satisfaction Analytics</h2>
-
-<p align="center">
-  <i>Interactive Power BI dashboards – 9 report pages</i>
-</p>
-
 <table>
   <tr>
     <td align="center" width="33%">
